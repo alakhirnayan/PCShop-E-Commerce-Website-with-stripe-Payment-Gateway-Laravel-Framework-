@@ -47,8 +47,8 @@ A full-featured Laravel 5-based e-commerce web application designed for selling,
 
 ### 📥 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/pcshop-laravel5.git
-cd pcshop-laravel5
+git clone https://github.com/alakhirnayan/PCShop-E-Commerce-Website-with-stripe-Payment-Gateway-Laravel-Framework-.git
+cd PCShop-E-Commerce-Website-with-stripe-Payment-Gateway-Laravel-Framework-
 ````
 
 ### 🖥️ 2. Install and Start XAMPP
